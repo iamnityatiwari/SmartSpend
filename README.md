@@ -116,6 +116,23 @@ npm start  # Starts on http://localhost:5173
 cd backend
 python test_extraction.py
 ```
+## Screenshots
+
+### Dashboard
+![Dashboard](3.png)
+
+### ML Bill Extraction
+![Bill Upload](2.png)
+
+### Bill Upload & OCR Processing
+![OCR](4.png)
+
+### Expense List
+![Expense List](1.png)
+
+### Report Download (CSV / PDF)
+![Report](5.png)
+
 
 ##  **How It Works**
 
@@ -205,63 +222,7 @@ Data Parsing → ML Categorization → Results Display
 
 ---
 
-##  **Contributing**
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
 
 
-
-##  Installation & Setup  
-
-### 1️ Clone the Repository  
-```bash
-git clone https://github.com/your-username/expense-tracker-ocr-ml.git
-cd expense-tracker-ocr-ml
-```
-### 2️ Backend Setup
-```bash
-
-cd backend
-python -m venv venv
-source venv/bin/activate   # (Linux/Mac)
-venv\Scripts\activate      # (Windows)
-pip install -r requirements.txt
-python app.py
-```
-Backend will start at  http://localhost:5000/
-
-### 3️ Frontend Setup
-```bash
-
-cd frontend
-npm install
-npm start
-```
-Frontend will start at  http://localhost:3000/
-
-
-
-##  Contribution Guidelines
-- Fork this repo 
-
-- Create a new branch (feature-new) 
-
-- Commit changes (git commit -m "Add new feature") 
-- Push to branch (git push origin feature-new) 
-
-- Create a Pull Request 
-
-##  License
-This project is licensed under the MIT License – free to use and modify.
-
-##  Team / Contributors
-- Thulasiram K – Frontend & UI (Team Lead)
-- Ravindran S – ML & Backend
 
 
