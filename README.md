@@ -119,19 +119,19 @@ python test_extraction.py
 ## Screenshots
 
 ### Dashboard
-![Dashboard](3.png)
+![Dashboard](screenshots/3.png)
 
 ### ML Bill Extraction
-![Bill Upload](2.png)
+![Bill Upload](screenshots/2.png)
 
 ### Bill Upload & OCR Processing
-![OCR](4.png)
+![OCR](screenshots/4.png)
 
 ### Expense List
-![Expense List](1.png)
+![Expense List](screenshots/1.png)
 
 ### Report Download (CSV / PDF)
-![Report](5.png)
+![Report](screenshots/5.png)
 
 
 ##  **How It Works**
